@@ -1,0 +1,17 @@
+[
+    {
+      "name": "My Personal Profile",
+      "description": "A basic personal profile page created using only HTML. It includes my name, interests, and a short introduction to who I am.",
+      "link": "#"
+    },
+    {
+      "name": "My Products",
+      "description": "A styled HTML product registration form for beauty and skincare tools. It features fields for product name, brand, category, and compatibility, with a clean and soft aesthetic.",
+      "link": "#"
+    },
+    {
+      "name": "About Me Page",
+      "description": "A soft, minimalist page that introduces who I am and what I love. Built using HTML and CSS, it reflects my calm personality and interest in web design.",
+      "link": "#"
+    }
+  ]
